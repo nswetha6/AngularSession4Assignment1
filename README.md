@@ -9,4 +9,6 @@
  created a namespace n1, 
  function sample1 and interface personobj are added to n1.
  
+ ImportNameSpace.ts
+ -----------------
  n1 is exported to ImportNameSpace.ts and returned message from Sample1 function in console. 
